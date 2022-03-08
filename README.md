@@ -21,5 +21,5 @@ In order to solve the problem, we build a predictive model using <br> ensemble m
 
 But, before implementing the code, we do some exploratory analysis around the data to get a better understanding of what we are dealing with. For that, we follow this procedure:
 <li>
-  Using the <tt>info</tt> method from `Pandas` to realize what types of features we have.
+  Using the <tt>info</tt> method from <tt>Pandas</tt> to realize what types of features we have.
 </li>
